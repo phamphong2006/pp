@@ -1,6 +1,6 @@
-# baphong.com
+pamphongjajk.com
 
-This is source for www.baphong.com
+This is source for www.pamphongjajk.com
 
 ```
 bundle exec jekyll serve
