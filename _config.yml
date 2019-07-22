@@ -1,5 +1,5 @@
 ---
-title: Thầy Bá Phong
+title: phamnguyenphong
 timezone: Asia/Bangkok
 collections:
   posts:
@@ -22,5 +22,5 @@ defaults:
     layout: page
 description: Học để tạo giá trị
 theme: minima
-siteurl: http://baphong.com/
+siteurl: 
 permalink: pretty
